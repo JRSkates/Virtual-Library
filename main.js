@@ -2,3 +2,4 @@
 const Media = require('./Media.js');
 const Book = require('./Book.js');
 const Movie = require('./Movie.js');
+const Music = require('./Music.js');
